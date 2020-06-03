@@ -1,0 +1,8 @@
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.DAL\bin\Debug\TeCorp.FirmaDigital.DAL.dll
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.DAL\bin\Debug\TeCorp.FirmaDigital.DAL.pdb
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.DAL\bin\Debug\TeCorp.FirmaDigital.DAL.xml
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.DAL\obj\Debug\TeCorp.FirmaDigital.DAL.Resources.resources
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.DAL\obj\Debug\TeCorp.FirmaDigital.DAL.vbproj.GenerateResource.cache
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.DAL\obj\Debug\TeCorp.FirmaDigital.DAL.dll
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.DAL\obj\Debug\TeCorp.FirmaDigital.DAL.xml
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.DAL\obj\Debug\TeCorp.FirmaDigital.DAL.pdb

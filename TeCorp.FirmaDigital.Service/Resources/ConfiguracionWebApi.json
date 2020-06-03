@@ -1,0 +1,24 @@
+{
+  "ConfiguracionFirmaDigital": {
+    "Server_URL": "http://172.16.14.102:8060/",
+    "PdfV1_URL": "pdf-sign-service/pdf/sign/v1",
+    "PdfV2_URL": "pdf-sign-service/pdf/sign/v2",
+    "User_EP2": "Eproperty2",
+    "Password_EP2": "eProperty2User#.%",
+    "Path_EP2": "D:\\Root.FirmaDigital.Cores\\EP2\\",
+    "User_EL2": "Elife2",
+    "Password_EL2": "elife2User.+$",
+    "Path_EL2": "D:\\Root.FirmaDigital.Cores\\EL2\\",
+    "User_ESA": "Esalud",
+    "Password_ESA": "eSaludUser$.*",
+    "Path_ESA": "D:\\Root.FirmaDigital.Cores\\ESA\\",
+    "Rectangle_With": 100,
+    "Rectangle_Height": 100,
+    "Rectangle_X": 0,
+    "Rectangle_Y": 0
+
+  },
+  "ConfiguracionOtro": {
+    "Server_URL": "http://172.16.14.102:8060/"
+  }
+}

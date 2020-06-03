@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TeCorp.FirmaDigital.Service
+</name>
+</assembly>
+<members>
+<member name="T:TeCorp.FirmaDigital.Service.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TeCorp.FirmaDigital.Service.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TeCorp.FirmaDigital.Service.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:TeCorp.FirmaDigital.Service.My.Resources.Resources.ConfiguracionWebApi">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="M:TeCorp.FirmaDigital.Service.Negocio.Implementacion.PdfV1_AgregarFirmaDigital(TeCorp.FirmaDigital.Service.Entidad.RequestDatosFirma)">
+ <summary>
+ Firma un archivo PDF lo guarda en la ruta que se especifica y devuelve el archivo firmado
+ </summary>
+ <param name="BEDatosFirmaDigital"></param>
+ <returns></returns>
+</member>
+<member name="M:TeCorp.FirmaDigital.Service.Negocio.Implementacion.PdfV2_AgregarFirmaDigital(TeCorp.FirmaDigital.Service.Entidad.RequestDatosFirma)">
+ <summary>
+ Firma un archivo PDF lo guarda y devuelve el archivo firmado
+ </summary>
+ <param name="BEDatosFirmaDigital"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>

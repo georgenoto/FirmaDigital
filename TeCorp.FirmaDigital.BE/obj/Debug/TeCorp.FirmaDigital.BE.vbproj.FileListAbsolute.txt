@@ -1,0 +1,9 @@
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\bin\Debug\TeCorp.FirmaDigital.BE.dll
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\bin\Debug\TeCorp.FirmaDigital.BE.pdb
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\bin\Debug\TeCorp.FirmaDigital.BE.xml
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\obj\Debug\TeCorp.FirmaDigital.BE.Resources.resources
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\obj\Debug\TeCorp.FirmaDigital.BE.vbproj.GenerateResource.cache
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\obj\Debug\TeCorp.FirmaDigital.BE.dll
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\obj\Debug\TeCorp.FirmaDigital.BE.xml
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\obj\Debug\TeCorp.FirmaDigital.BE.pdb
+D:\TFS\TeCorp.FirmaDigital\TeCorp.FirmaDigital.BE\obj\Debug\TeCorp.FirmaDigital.BE.vbprojAssemblyReference.cache
